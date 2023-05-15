@@ -17,9 +17,12 @@ By analysing both internal and external data, I have gained many key facts about
 ## Conclusion
 Social commerce and conversational commerce, or sales through interactive chat and message 
 channels with customers in the Internet environment, have grown in popularity.
+
 Brands may begin concentrating on social commerce and conversational commerce in the 
 future, with the potential to achieve two to three times the effect by leveraging the trend.
+
 The impact of COVID-19 on consumption and purchasing behavior will be long-lasting, and 
 companies must prepare for the new digital normal in the post-pandemic phase.
+
 We should keep COVID-19's behavioral shifts in mind, and rethink supply chains to digitally 
 service customers and deliver to their homes.
