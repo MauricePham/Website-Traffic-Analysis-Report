@@ -1,5 +1,9 @@
 # [Power BI] Website-Traffic-Analysis-Report
 
+If you wish to see how I made visualization (Dax), please find attachment name "Website_Traffic_Analysis.pbix"
+Else if you want to see the final report, please go to the file name "Data Analysis Report.pdf"
+Thank you! If you see this helpful, don't forget to drop a STAR for motivation :) Any comment, feedback are also welcomed and appreciated guys <3
+
 ## Report Summary
 The given datasets are the website traffic including information about Region, Category, and 
 Source from 2020 to 2022 among cities of Viet Nam. This report is made to give the overview 
